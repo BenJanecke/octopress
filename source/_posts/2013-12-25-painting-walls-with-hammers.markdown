@@ -10,21 +10,20 @@ categories: "agile extreme programming xp"
 
 {% img /assets/images/hands.jpg 'Title Image' 'Hands' %}
 
-That piece is called hands and yes, it is made of LEGO bricks.
+That piece is called hands and yes, it is made of LEGO&reg; bricks.
 Thousands of blocks painstakingly arranged to express an emotion deeply personal to the artist [Nathan Sawaya](http://brickartist.com/). Does this make it worth more than a sculpture formed of marble or a cgi rendering?
 
 The tools of our craft are wholly unsuited for the task we put them to. This phrase echoes in my head every time I approach a significantly difficult problem and I need to write code to solve it. Eventually I start to feel like I am trying to beat a square peg into a round hole using my code as a blunt instrument yet without fail at the peak of my frustration I remember an awesome baby.
 
-This baby
 {% img http://i.imgur.com/7dpx5i2.gif 'Awesome Baby' %}
 
 The aim of the game is not to get the square peg through the round hole. All you need to do is get the square peg into the bucket.
 
 We need to work with the tools we have; you can paint a wall with a hammer or build a sculpture out of LEGO. The end result is always a painted wall or sculpture. The trick is in the process.
 
-{% blockquote Nathan Sawaya %}
+{% blockquote Nathan Sawaya, http://brickartist.com/about/ %}
 It takes as much time as I have. Some sculptures take hours, some take days and some take months.
-{% endblockqoute %}
+{% endblockquote %}
 
 When you are having trouble with square pegs and round holes there are some things you can always fall back on.
 
