@@ -3,39 +3,56 @@ layout: post
 title: "Painting walls with hammers"
 date: 2013-12-25 15:45:38 +0200
 comments: true
-categories: "agile extreme programming xp"
+categories: "craftsmanship focus context"
 ---
-
--This essay is still in its first draft form-
 
 {% img /assets/images/hands.jpg 'Title Image' 'Hands' %}
 
 That piece is called hands and yes, it is made of LEGO&reg; bricks.
-Thousands of blocks painstakingly arranged to express an emotion deeply personal to the artist [Nathan Sawaya](http://brickartist.com/). Does this make it worth more than a sculpture formed of marble or a cgi rendering?
+Thousands of blocks painstakingly arranged to express an emotion deeply personal to the artist [Nathan Sawaya](http://brickartist.com/).
 
-The tools of our craft are wholly unsuited for the task we put them to. This phrase echoes in my head every time I approach a significantly difficult problem and I need to write code to solve it. Eventually I start to feel like I am trying to beat a square peg into a round hole using my code as a blunt instrument yet without fail at the peak of my frustration I remember an awesome baby.
-
-{% img http://i.imgur.com/7dpx5i2.gif 'Awesome Baby' %}
-
-The aim of the game is not to get the square peg through the round hole. All you need to do is get the square peg into the bucket.
-
-We need to work with the tools we have; you can paint a wall with a hammer or build a sculpture out of LEGO. The end result is always a painted wall or sculpture. The trick is in the process.
+We need to work with the tools we have; you can paint a wall with a hammer or build a sculpture out of LEGO. The end result is always a painted wall or sculpture. The trick is in the approach.
 
 {% blockquote Nathan Sawaya, http://brickartist.com/about/ %}
 It takes as much time as I have. Some sculptures take hours, some take days and some take months.
 {% endblockquote %}
 
-When you are having trouble with square pegs and round holes there are some things you can always fall back on.
+I suck at writing code alone, I get bored or I get rushed by perceived deadlines. So I take shortcuts.
 
-Get some help.
-If a problem is too much for you get someone to pair with you. If the problem is to easy for you get someone to pair with you. If you are familiar with the problem get someone to pair with you. If you are unfamiliar with the problem get someone to pair with you.
+Look at this kid.
 
-Test drive your code.
-Testing your code helps not only by making you trust your code. It also helps you better define what you actually want your code to do.
+{% img http://i.imgur.com/7dpx5i2.gif 'Awesome Baby' %}
 
-Ask more questions.
-If you don't understand the problem keep asking why. Why not try asking why 5 times.
+Smart kid. Right?
 
-Find the bucket.
-Try not to get stuck in discussions about how to get things through the funny holes and spend more time on getting things into the bucket.
+That is what we do; we look at solutions like that and praise them.
 
+But was that really a good solution?
+That depends on the problem.
+Was the problem to get the square peg into the bucket or was the problem pairing shapes with holes?
+
+[Path of least resistance](http://en.wikipedia.org/wiki/Path_of_least_resistance) is the norm.
+The problem being that the simplest path for someone might be the most difficult for someone else and vice versa.
+The way to alleviate this is to work with and not just in your team.
+
+{% blockquote %}
+The way to alleviate this is to work with and not just in your team.
+{% endblockquote %}
+
+As a developer there are a few places common to many processes that are really good for this.
+
+Code Reviews
+This is a very common practice but is often completely broken.
+If you go through a code review without a single change being made something is wrong.
+If you go through a code review and you have to go back and fix things you should not feel bad.
+You should be happy because that means that the code you are about to go and fix will be better than if you had written it alone.
+You have not failed.
+
+Planning Sessions
+This is where you can be sure that you are working on the right problem and are choosing the best solution.
+Don't rush through planning sessions earmarking problems for yourself. Take time to talk through the problem and the solution certify that your understanding of the problem and solution is the same as your team.
+
+Pairing
+This is what works best for me. Having another dev right next to you throughout the whole problem solving process is invaluable. At any time you can be sure that your pairing partner understands what you are doing and vice versa. Taking shortcuts becomes harder because you can only take a shortcut if you convince your partner to take the shortcut. Pressure is less daunting because you share it with your partner.
+
+If you ever feel like your tools suck take a step back, look at the problem and discuss it with your team.
