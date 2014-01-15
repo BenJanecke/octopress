@@ -1,17 +1,18 @@
 ---
 layout: page
-title: "about"
+title: "Hi, I'm Ben"
 date: 2014-01-14 22:59
 comments: false
 sharing: true
 footer: true
 ---
 
-# Hi, I'm Ben
+<div class="clearfix about-heading">
+  <img src="/assets/images/avatar.jpg" title='Avatar' alt='Ben Janecke' class="avatar" />
+  <h1> Hi, I'm Ben </h1>
+  <p> I am a software craftsman. </p>
+</div>
 
-{% img /assets/images/avatar.jpg 'Avatar' 'Me' %}
-
-I am a software craftsman.
 
 ## I believe in.
 
@@ -27,7 +28,7 @@ I am a software craftsman.
 ## I do things.
 
 ### On [Github](https://github.com/BenJanecke)
-* [Sane defaults for an npm package](https://github.com/BenJanecke/grunt-init-node-mocha-chai-sinon)
+* [Sane defaults for development of an npm package](https://github.com/BenJanecke/grunt-init-node-mocha-chai-sinon)
 
 ### Offline
 
