@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "this-is-a-work-in-progress"
+title: "This is a work in progress"
 date: 2014-01-19 20:57:55 +0200
 comments: true
 categories:
