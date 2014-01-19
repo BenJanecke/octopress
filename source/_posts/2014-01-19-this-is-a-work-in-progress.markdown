@@ -14,6 +14,6 @@ I believe in transparency so this change will be available on this [git repo](ht
 
 I also believe in collaboration so pull requests are welcome at [this repo](https://github.com/BenJanecke/octopress).
 
-Everything written here will never be removed the from the [git history](https://github.com/BenJanecke/octopress/commits/master) but everything is subject to change.
+Everything written here will never be removed the from the [git history](https://github.com/BenJanecke/octopress/commits/master) and will be subject to change.
 
 That is the point.
