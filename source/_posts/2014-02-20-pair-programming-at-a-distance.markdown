@@ -66,6 +66,8 @@ Get Comfortable
 Agree on Your Tools
 Profit!
 
-Learn about tools and remote communication
+## Learn about tools and remote communication
+
 [Joe Moore has an awesome talk about this](http://www.youtube.com/watch?v=saSEu2p7aAI)
-[I also have a talk about this]()This should be on youtube soon
+
+[I also have a talk about this]() This should be on youtube soon
