@@ -5,7 +5,7 @@ article{
     margin-bottom: 1.5em;
   }
   h2.title{
-    font-size: 36px;
+    font-size: 1.2em;
     font-weight: 300;
     line-height: 1;
     margin-left:0px;
@@ -18,10 +18,6 @@ article{
     color: $color-main;
     border-bottom: 0px;
     }
-    @media screen and (max-width: 620px) {
-    font-size: 18px;
-    }
-
   }
 
   .entry-content{
@@ -51,8 +47,9 @@ article{
     p{
       margin-top: 10px;
     }
+
     h2{
-      font-weight: 300;
+      font-size: 1.2em;
       border-bottom: 1px solid $color-gray04;
       position: relative;
       &:before{
