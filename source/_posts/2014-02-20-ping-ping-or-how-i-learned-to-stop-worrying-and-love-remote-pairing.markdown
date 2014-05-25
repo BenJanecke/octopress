@@ -6,6 +6,9 @@ comments: true
 categories:
 ---
 
+This is based off my talk:
+https://www.youtube.com/watch?v=HE1lCpp63pU
+
 I assume that the majority of my readers will be familiar with the term pair-programming but for the sake of clarity, I will define pair-programming as I understand it.
 
 {% blockquote %}
@@ -85,4 +88,4 @@ When everything is in place just go for it. You and your partner will figure out
 
 [Joe Moore has an awesome talk about this](http://www.youtube.com/watch?v=saSEu2p7aAI)
 
-[I also have a talk about this]() This should be on youtube soon
+[I also have a talk about this](https://www.youtube.com/watch?v=HE1lCpp63pU) 
