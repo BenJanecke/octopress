@@ -10,7 +10,7 @@ footer: true
 <div class="clearfix about-heading">
   <img src="/assets/images/avatar.jpg" title='Avatar' alt='Ben Janecke' class="avatar" />
   <h1> Hi, I'm Ben </h1>
-  <p> I am a software craftsman. </p>
+  <p> I am a just a developer. </p>
 </div>
 
 
