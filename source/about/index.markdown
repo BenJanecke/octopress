@@ -22,17 +22,20 @@ footer: true
 * [Emergent Design](http://xprogramming.com/classics/expemergentdesign/)
 * Pair Programming
 * Design as translation
-* TDD
-* BDD
+* DDD and all the other *DD's
 
 ## I do things.
 
 ### On [Github](https://github.com/BenJanecke)
 * [Sane defaults for development of an npm package](https://github.com/BenJanecke/grunt-init-node-mocha-chai-sinon)
+* [Sane composable filesystem scaffolding](https://github.com/BenJanecke/sane-scaffold)
 
 ### Offline
 
 * I help out at [Rails Bridge Cape Town](http://railsbridgecapetown.org/)
+* I organize
+    * http://www.meetup.com/Go-Cape-Town-User-Group/
+    * http://www.meetup.com/Just-Javascript-no-bullshit/
 * I work at [Unboxed Consulting](https://www.unboxedconsulting.com/)
 
 
